@@ -1,0 +1,8 @@
+Base Hype Wall / Base review note
+
+This repository contains public project proof for a Base dApp.
+Build ID: 6a0466a52be96789d34cf035
+Builder Code: bc_byoldpca
+Live Demo: https://base-hype-wall.vercel.app
+
+No private operational material is stored in this note.
